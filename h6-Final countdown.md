@@ -1,15 +1,10 @@
 ## Task x) Homework Report Links
 1. https://github.com/Abrar76/h1-First-steps
-
 2. https://github.com/Abrar76/h2-Spiderweb/blob/main/h2-Spiderweb.docx
-
-3.https://github.com/Abrar76/h3-Assignment/blob/main/h3%20_Should%20Tero%20wear%20a%20helmet.docx
-
-4.https://github.com/Abrar76/h4_ETAOIN/blob/main/h4_ETAOIN.docx
-
-5.https://github.com/Abrar76/h5-September2023/blob/main/h5.md
-
-6.https://github.com/Abrar76/h6-A-Nynomous/blob/main/h6.md
+3. https://github.com/Abrar76/h3-Assignment/blob/main/h3%20_Should%20Tero%20wear%20a%20helmet.docx
+4. https://github.com/Abrar76/h4_ETAOIN/blob/main/h4_ETAOIN.docx
+5. https://github.com/Abrar76/h5-September2023/blob/main/h5.md
+6. https://github.com/Abrar76/h6-A-Nynomous/blob/main/h6.md
 
 ## y) Presentation cross evaluation
 It was done in Moodle
