@@ -10,14 +10,15 @@
 It was done in Moodle
 ## a) Firewall. Install a firewall on Linux and block all ports you don't need to be open.
 1. Install update
-   sudo apt-get update
-   ![image](https://github.com/Abrar76/h7-Final-countdown/assets/79007051/c6353158-8938-4200-a6ee-8ef2b233a35e)
+ sudo apt-get update
+ ![image](https://github.com/Abrar76/h7-Final-countdown/assets/79007051/c6353158-8938-4200-a6ee-8ef2b233a35e)
    
 3. After this Installing Firewall. Allowing SSH on Port 22 before enabling firewall
   sudo apt-get install ufw
   sudo ufw allow 22/tcp
-  sudo ufw enable 
-   ![image](https://github.com/Abrar76/h7-Final-countdown/assets/79007051/f7b22e0d-b53a-453a-ab51-f8f956c26237)
+  sudo ufw enable
+
+![image](https://github.com/Abrar76/h7-Final-countdown/assets/79007051/f7b22e0d-b53a-453a-ab51-f8f956c26237)
 
 ## b) Ssherver. Install OpenSSH server and connect to it
 
